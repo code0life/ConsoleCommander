@@ -1,4 +1,4 @@
-#Проект ConsoleCommander
+# ConsoleCommander #
 
 В настройках Settings.setting заданы дефолтные значения:
 MaxHeightTree - максимальная высота отображаемого дерева на 1 странице
