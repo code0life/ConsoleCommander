@@ -1,4 +1,7 @@
 # ConsoleCommander #
+
+https://img.shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge
+
 ### Общее описание ###
 Консольный файловый менеджер начального уровня, который покрывает минимальный набор функционала по работе с файлами. Делался для курса ***Введение в C#***
 
